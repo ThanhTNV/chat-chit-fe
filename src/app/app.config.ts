@@ -8,7 +8,7 @@ import { SocketIoModule, SocketIoConfig } from 'ngx-socket-io';
 import { routes } from './app.routes';
 
 const config: SocketIoConfig = {
-  url: 'http://localhost:3000',
+  url: 'https://api-chat-chit-be.azurewebsites.net',
   options: {
     withCredentials: true,
   },
