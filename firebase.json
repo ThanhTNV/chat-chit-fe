@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/chat-chit-fe",
+    "public": "dist/chat-chit-fe/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
